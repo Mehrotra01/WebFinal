@@ -1,0 +1,38 @@
+body {
+    background-color: #F2DEBA;
+    
+}
+
+.responsive {
+    max-width: 125%;
+    margin-right: auto;
+    margin-left: auto;
+    height: auto;
+}
+
+img {
+    padding: 0px;
+    z-index: 1;
+}
+.row h1{
+    font-size: 44px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #ffffff;
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    z-index: 2;
+    text-shadow: #ba9415;
+}
+
+.displayBox {
+    width: 100%;
+    font-family:  Geneva, Tahoma, sans-serif
+}
+
+.scroll-box {
+    overflow-y: auto;
+    height: 500px;
+    float: left;
+    padding: 1rem;
+}
